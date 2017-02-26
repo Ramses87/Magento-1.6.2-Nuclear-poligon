@@ -1,0 +1,23 @@
+2017-02-26T20:44:55+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:44:55+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:45:06+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:45:06+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Warning: session_module_name(): Cannot find named PHP session module (file)  in /var/www/magento1/mageold/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 63
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 521
+2017-02-26T20:46:49+00:00 ERR (3): Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated  in /var/www/magento1/mageold/lib/Zend/Validate/Hostname.php on line 617
